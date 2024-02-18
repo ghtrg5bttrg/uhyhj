@@ -1,0 +1,5 @@
+Thanks For Buying Ciphercord MM Bot Src
+
+First Put Your Bot Token,Bot prefix , Staff Role Name in Config.json
+
+Run Main.py 
